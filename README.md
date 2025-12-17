@@ -54,7 +54,7 @@ Nothing unnecessary survives.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/nano-banana.git
+git clone https://github.com/cid-kageno-dev/Nano-banana-.git
 cd nano-banana
 npm install
 npm start
