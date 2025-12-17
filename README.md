@@ -1,21 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                     N A N O   B A N A N A                    ║
+║            A Project That Exists Entirely by Accident       ║
+║                 (Created by Cid Kageno)                     ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
-# Run and deploy your AI Studio app
+# 🍌 Nano Banana
 
-This contains everything you need to run your app locally.
+> *“This was never meant to be important.  
+It simply became so.”*
 
-View your app in AI Studio: https://ai.studio/apps/drive/13vKwhX3Ou6mC-UuzS6nRDjyZ59UJU3po
+Nano Banana is a lightweight, absurdly efficient AI-powered image generation project.  
+It was created as a side experiment, ignored deliberately, and optimized in the shadows.
 
-## Run Locally
+No hype. No noise. Only results.
 
-**Prerequisites:**  Node.js
+---
 
+## 🕶 Philosophy
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-   
+Nano Banana follows three principles:
+
+- **Minimal surface, maximum impact**
+- **Function over explanation**
+- **Power hidden behind simplicity**
+
+If something looks simple here, assume it was made that way on purpose.
+
+---
+
+## ⚙️ Features
+
+- ⚡ Ultra-fast AI image generation  
+- 🧠 Prompt-to-image pipeline with minimal overhead  
+- 🍃 Lightweight structure (no bloated dependencies)  
+- 🛠 Easily extendable for automation and custom workflows  
+- 🎭 Clean UI with shadow-grade efficiency  
+
+Nothing unnecessary survives.
+
+---
+
+## 🧩 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Node.js  
+- AI: API-based image generation  
+- Design philosophy: *Invisible complexity*
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/your-username/nano-banana.git
+cd nano-banana
+npm install
+npm start
